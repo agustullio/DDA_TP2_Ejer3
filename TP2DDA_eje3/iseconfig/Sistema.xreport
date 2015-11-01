@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
+<<<<<<< HEAD
   <DateModified>2015-11-01T19:16:48</DateModified>
   <ModuleName>Sistema</ModuleName>
   <SummaryTimeStamp>2015-11-01T16:38:02</SummaryTimeStamp>
   <SavedFilePath>D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/iseconfig/Sistema.xreport</SavedFilePath>
   <ImplementationReportsDirectory>D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3\</ImplementationReportsDirectory>
+=======
+  <DateModified>2015-11-01T18:46:02</DateModified>
+  <ModuleName>Sistema</ModuleName>
+  <SummaryTimeStamp>2015-10-30T14:28:43</SummaryTimeStamp>
+  <SavedFilePath>E:/Agus/Facultad/DDA/DDA_TP2_Ejer3/TP2DDA_eje3/iseconfig/Sistema.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>E:/Agus/Facultad/DDA/DDA_TP2_Ejer3/TP2DDA_eje3\</ImplementationReportsDirectory>
+>>>>>>> origin/master
   <DateInitialized>2014-11-19T11:15:36</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

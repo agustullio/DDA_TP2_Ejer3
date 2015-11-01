@@ -1,0 +1,5 @@
+set -tmpdir "E:/Agus/Facultad/DDA/DDA_TP2_Ejer3/TP2DDA_eje3/xst/projnav.tmp"
+set -xsthdpdir "E:/Agus/Facultad/DDA/DDA_TP2_Ejer3/TP2DDA_eje3/xst"
+elaborate
+-ifn InterruptMEF.prj
+-ifmt mixed

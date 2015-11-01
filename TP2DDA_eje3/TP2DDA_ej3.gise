@@ -22,6 +22,13 @@
   <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="TP2DDA_ej3.xise"/>
 
   <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Antirebote.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Antirebote.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Antirebote.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="InterruptMEF.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="InterruptMEF.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="InterruptMEF.xst"/>
     <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Sistema.cmd_log"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Sistema.lso"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Sistema.ngc"/>
@@ -30,6 +37,8 @@
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Sistema.stx"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Sistema.syr"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Sistema.xst"/>
+    <file xil_pn:fileType="FILE_BLIF" xil_pn:name="Sistema_cs.blc"/>
+    <file xil_pn:fileType="FILE_NGC" xil_pn:name="Sistema_cs.ngc"/>
     <file xil_pn:fileType="FILE_NCD" xil_pn:name="Sistema_guide.ncd" xil_pn:origination="imported"/>
     <file xil_pn:fileType="FILE_HTML" xil_pn:name="Sistema_summary.html"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Sistema_vhdl.prj"/>
@@ -72,6 +81,11 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="Sistema.lso"/>
       <outfile xil_pn:name="Sistema.ngc"/>
       <outfile xil_pn:name="Sistema.ngr"/>

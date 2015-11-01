@@ -1,0 +1,118 @@
+V3 78
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Ack_uart.vhd 2015/10/30.15:30:06 P.20131013
+EN work/Ack_uart 1446390416 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Ack_uart.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Ack_uart/Behavioral 1446390417 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Ack_uart.vhd \
+      EN work/Ack_uart 1446390416
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Antirebote.vhd 2014/11/14.10:53:22 P.20131013
+EN work/Antirebote 1446390410 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Antirebote.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Antirebote/Behavioral 1446390411 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Antirebote.vhd \
+      EN work/Antirebote 1446390410
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/aplicacion.vhd 2014/11/20.09:58:16 P.20131013
+PH work/constants 1446390422 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/aplicacion.vhd \
+      PB ieee/std_logic_1164 1381692176
+PB work/constants 1446390423 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/aplicacion.vhd \
+      PH work/constants 1446390422
+EN work/memoria 1446390424 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/aplicacion.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 LB unisim PH unisim/VCOMPONENTS 1381692182 \
+      PB work/constants 1446390423
+AR work/memoria/mix 1446390425 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/aplicacion.vhd \
+      EN work/memoria 1446390424 CP label CP RAMB16_S9_S18 CP RAMB4_S8_S16 \
+      CP std_logic_vector CP RAMB4_S4_S4
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/bbfifo_16x8.vhd 2003/12/03.15:53:56 P.20131013
+EN work/bbfifo_16x8 1446390408 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/bbfifo_16x8.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 LB unisim PH unisim/VCOMPONENTS 1381692182
+AR work/bbfifo_16x8/low_level_definition 1446390409 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/bbfifo_16x8.vhd \
+      EN work/bbfifo_16x8 1446390408 CP string CP label CP SRL16E CP FDRE CP LUT4 \
+      CP MUXCY CP XORCY CP FDR CP LUT3
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Buffer_LCD.vhd 2014/11/18.11:28:58 P.20131013
+EN work/Buffer_LCD 1446390430 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Buffer_LCD.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Buffer_LCD/Behavioral 1446390431 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Buffer_LCD.vhd \
+      EN work/Buffer_LCD 1446390430
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/cotrol_interrupciones.vhd 2015/10/30.14:17:18 P.20131013
+EN work/cotrol_interrupciones 1446390418 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/cotrol_interrupciones.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/cotrol_interrupciones/Behavioral 1446390419 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/cotrol_interrupciones.vhd \
+      EN work/cotrol_interrupciones 1446390418
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/divisor_de_frec.vhd 2014/11/16.21:28:12 P.20131013
+EN work/divisor_de_frec 1446390412 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/divisor_de_frec.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/divisor_de_frec/Behavioral 1446390413 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/divisor_de_frec.vhd \
+      EN work/divisor_de_frec 1446390412
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/kcpsm3.vhd 2014/10/29.17:07:48 P.20131013
+EN work/kcpsm3 1446390420 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/kcpsm3.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 LB unisim PH unisim/VCOMPONENTS 1381692182
+AR work/kcpsm3/low_level_definition 1446390421 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/kcpsm3.vhd EN work/kcpsm3 1446390420 \
+      CP LUT1 CP FDR CP FDS CP LUT4 CP FD CP FDE CP LUT3 CP FDRE CP LUT2 CP MUXCY CP XORCY \
+      CP INV CP string CP label CP FDRSE CP RAM16X1D CP RAM64X1S CP MUXF5 CP RAM32X1S
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/kcuart_rx.vhd 2003/12/03.15:53:38 P.20131013
+EN work/kcuart_rx 1446390406 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/kcuart_rx.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 LB unisim PH unisim/VCOMPONENTS 1381692182
+AR work/kcuart_rx/low_level_definition 1446390407 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/kcuart_rx.vhd \
+      EN work/kcuart_rx 1446390406 CP FD CP string CP label CP SRL16E CP FDE CP LUT4 \
+      CP LUT3 CP LUT2
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Salida_LCD.vhd 2014/11/18.10:50:06 P.20131013
+EN work/Salida_LCD 1446390426 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Salida_LCD.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Salida_LCD/Behavioral 1446390427 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Salida_LCD.vhd \
+      EN work/Salida_LCD 1446390426
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Salida_LCD_O.vhd 2014/11/18.11:22:50 P.20131013
+EN work/Salida_LCD_O 1446390428 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Salida_LCD_O.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Salida_LCD_O/Behavioral 1446390429 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Salida_LCD_O.vhd \
+      EN work/Salida_LCD_O 1446390428
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Sistema.vhd 2015/10/30.15:31:02 P.20131013
+EN work/Sistema 1446390432 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Sistema.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Sistema/Behavioral 1446390433 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Sistema.vhd \
+      EN work/Sistema 1446390432 CP Antirebote CP divisor_de_frec CP uart_rx \
+      CP Ack_uart CP cotrol_interrupciones CP kcpsm3 CP memoria CP Salida_LCD \
+      CP Salida_LCD_O CP Buffer_LCD
+FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/uart_rx.vhd 2003/12/03.15:53:26 P.20131013
+EN work/uart_rx 1446390414 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/uart_rx.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 LB unisim PH unisim/VCOMPONENTS 1381692182
+AR work/uart_rx/macro_level_definition 1446390415 \
+      FL D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/uart_rx.vhd \
+      EN work/uart_rx 1446390414 CP kcuart_rx CP bbfifo_16x8

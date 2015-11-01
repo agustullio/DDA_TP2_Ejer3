@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Sistema.xst" -ofn "D:/documentos/GitHub/DDA_TP2_Ejer3/TP2DDA_eje3/Sistema.syr" 

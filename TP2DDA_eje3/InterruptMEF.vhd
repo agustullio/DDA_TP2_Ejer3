@@ -72,13 +72,13 @@ begin
 	process (actual)
 	begin
 		case actual is
-			when s1 => int <= '0';
-			when s2 => int <= '0';
-			when s3 => int <= '1';
+			when s1 => int <= '0'; 
+			when s2 => int <= '0'; 
+			when s3 => int <= '1'; 
 			when s4 => int <= '0'; Output <= reg;
-			when s5 => int <= '0';
-			when s6 => int <= '1';
-			when s7 => int <= '0'; Output <= (others => '1');
+			when s5 => int <= '0'; 
+			when s6 => int <= '1'; 
+			when s7 => int <= '0'; Output <= (others => '1'); 
 			when others => null;
 		end case;		
 	end process;
